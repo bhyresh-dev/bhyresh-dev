@@ -9,17 +9,17 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🔭 I’m currently working on **Machine Learning projects**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🌱 I’m currently learning **Docker, Android Studio, Firebase**
 
- </div>
- 
+💬 Ask me about **Web Development, DBMS, Firebase... or anything [here](https://github.com/salesp07/bhyresh-dev/issues)**
+
+⚡ Tech fact: **The first computer bug was an actual moth found in a Harvard computer in 1947.**
+
+</div>
+
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
