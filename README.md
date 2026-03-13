@@ -14,7 +14,7 @@
 
 🌱 I’m currently learning **Docker, Android Studio, Firebase**
 
-💬 Ask me about **Web Development, DBMS, Firebase... or anything [here](https://github.com/salesp07/bhyresh-dev/issues)**
+💬 Ask me about **Web Development, DBMS, Firebase... or anything [here](https://github.com/bhyresh-dev/bhyresh-dev/issues)**
 
 ⚡ Tech fact: **The first computer bug was an actual moth found in a Harvard computer in 1947.**
 
